@@ -1,0 +1,4 @@
+interface:
+  display_name: "天主教文献翻译"
+  short_description: "核验原文版本，统一天主教术语与圣经引文，完成中文翻译及合卷复校"
+  default_prompt: "请使用 $catholic-text-translation 核验所给天主教文献的版本与重复内容，按原文翻译为中文并复校。"
